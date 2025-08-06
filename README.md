@@ -25,24 +25,6 @@ Manipulação de Dados: Pandas
 
 Containerização: Docker
 
-📂 Estrutura do Projeto
-.
-├── app/ # Contém todo o código fonte da aplicação
-│ ├── **init**.py
-│ ├── main.py # Ponto de entrada da API (endpoints)
-│ ├── agents.py # Lógica de comunicação com a API do Gemini
-│ ├── data_loader.py # Lógica para carregar e processar a planilha
-│ ├── schemas.py # Modelos de dados Pydantic para validação
-│ └── config.py # Gestão de configurações e segredos
-│
-├── data/ # Diretório para os ficheiros de dados
-│ └── produtos.xlsx # A sua planilha de inventário de componentes
-│
-├── .gitignore # Ficheiros e pastas a serem ignorados pelo Git
-├── Dockerfile # Receita para construir a imagem Docker
-├── README.md # Este ficheiro
-└── requirements.txt # Dependências Python do projeto
-
 📊 Estrutura da Planilha (produtos.xlsx)
 Para que a aplicação funcione corretamente, a sua planilha de inventário, localizada em data/produtos.xlsx, deve ter a seguinte estrutura. O código é flexível quanto a maiúsculas/minúsculas e acentos nos cabeçalhos, mas a presença das três colunas é obrigatória.
 
