@@ -1,5 +1,5 @@
 Montador de PC com IA (POC)
-Bem-vindo à Prova de Conceito (POC) do Montador de PC com IA! Esta é uma aplicação API que utiliza o poder do modelo de linguagem Google Gemini para agir como um assistente virtual especialista em hardware. A partir de uma lista de componentes disponíveis (o seu inventário) e um pedido do cliente, a IA monta o melhor computador possível, respeitando as necessidades e o orçamento definidos.
+Bem-vindo esta é uma aplicação API que utiliza o poder do modelo de linguagem Google Gemini para agir como um assistente virtual especialista em hardware. A partir de uma lista de componentes disponíveis (o seu inventário) e um pedido do cliente, a IA monta o melhor computador possível, respeitando as necessidades e o orçamento definidos.
 
 ✨ Funcionalidades
 Análise de Linguagem Natural: Entende pedidos complexos dos utilizadores, como "Quero um PC para streaming de jogos com um orçamento de 10.000 reais".
