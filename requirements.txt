@@ -1,0 +1,7 @@
+pandas
+openpyxl
+google-generativeai
+fastapi
+uvicorn
+pydantic
+pydantic-settings
